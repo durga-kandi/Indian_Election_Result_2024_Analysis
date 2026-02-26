@@ -61,6 +61,7 @@ Tabular view enabling precise inspection of election outcomes, vote share, and c
 
 ## 🛠 Tools & Skills Demonstrated
 
+- SQL
 - Power BI  
 - DAX  
 - Data Modeling  
