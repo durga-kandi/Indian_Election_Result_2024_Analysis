@@ -77,4 +77,3 @@ Tabular view enabling precise inspection of election outcomes, vote share, and c
 
 ---
 
-⭐ This project emphasizes structured analytical design and decision-oriented visualization of large-scale electoral data.
