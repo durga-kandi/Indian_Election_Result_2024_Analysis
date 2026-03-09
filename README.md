@@ -73,7 +73,7 @@ Tabular view enabling precise inspection of election outcomes, vote share, and c
 
 ## 🔗 Live Dashboard
 
-👉 [View Report on Power BI Service](https://app.powerbi.com/groups/me/reports/5123ebb2-6ab8-4082-81ce-fa8c819afac5/16d5f66695b608a39228?experience=power-bi)
+👉 [View Report on Power BI Service](https://app.powerbi.com/view?r=eyJrIjoiOThmNjZkZDgtZTg2YS00Y2NiLTlmZDgtMzA3MzhjNmRhNWQ4IiwidCI6IjNiY2YzZjA3LWFkMDAtNDlkMC1iOTNiLWI3ZWQ0MDA1MzI3NyJ9)
 
 ---
 
